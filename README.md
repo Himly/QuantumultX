@@ -1,0 +1,2 @@
+# QuantumultX
+My QutumultX Config
